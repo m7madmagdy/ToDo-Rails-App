@@ -1,24 +1,9 @@
-# README
+<h1 align="center">To Do List Using Rails</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- UI: Tailwindcss-Rails
 
-Things you may want to cover:
+- Reference **https://github.com/rails/tailwindcss-rails**
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img src="https://m7madmagdy.github.io/pages/todolist3.png" width="500" align="left"/>
+<img src="https://m7madmagdy.github.io/pages/todolist2.png" width="500" align="left"/>
+<img src="https://m7madmagdy.github.io/pages/todolist1.png" width="500" align="left"/>
